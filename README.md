@@ -4,7 +4,9 @@
 
 ## 如果对你有帮助，请反馈或v我杯柠檬水谢谢喵~
 
+![image](https://mat.lxyddice.cf/img/zanzhu.png)
 ## GetDiamondGame-1.0-SNAPSHOT  玩家得到了钻石！
+
 
 ### 适用于1.18.2+的spigot服务端
 
