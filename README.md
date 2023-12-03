@@ -4,7 +4,10 @@
 
 ## 如果对你有帮助，请反馈或v我杯柠檬水谢谢喵~
 
+如果你觉得很差，可以的话请教教我如何做得更好，谢谢你~
+
 ![image](https://mat.lxyddice.cf/img/zanzhu.png)
+
 ## GetDiamondGame-1.0-SNAPSHOT  玩家得到了钻石！
 
 
