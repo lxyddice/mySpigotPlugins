@@ -21,11 +21,14 @@
 ### 指令
 
 进服消息，内容支持颜色代码，权限为 lxycustommessage.setjoinmessage ，默认op拥有
+
 ![image](https://github.com/lxyddice/mySpigotPlugins/assets/95132858/0108d1ee-7c87-4e51-9bcc-4baa3b5be85d)
 
 退服消息，内容支持颜色代码，权限为 lxycustommessage.setquitmessage ，默认op拥有
+
 ![image](https://github.com/lxyddice/mySpigotPlugins/assets/95132858/7dec5b1b-e910-4664-bf7e-39a11b24301d)
 
 效果
+
 ![image](https://github.com/lxyddice/mySpigotPlugins/assets/95132858/415635e4-46b3-4fb5-a293-3bba7f0d772f)
 
